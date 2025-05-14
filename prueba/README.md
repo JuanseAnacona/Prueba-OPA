@@ -29,7 +29,7 @@ Permitir al usuario:
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/JuanseAnacona/Prueba-OPA
 cd repositorio
 ```
 
